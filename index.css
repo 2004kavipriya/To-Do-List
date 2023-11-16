@@ -66,7 +66,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image:url("C:/Users/KAVI/Desktop/To do list/red circle.png");
+    background-image:url("red circle.png");
     background-size: cover;
     background-position: center;
     top: 12px;
@@ -78,7 +78,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url("C:/Users/KAVI/Downloads/green tick.png");
+    background-image: url("green tick.png");
 }
 ul li span{
     position: absolute;
